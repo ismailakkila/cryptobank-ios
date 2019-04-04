@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-incall-manager/ios/RNInCallManager/RNInCallManager.h
