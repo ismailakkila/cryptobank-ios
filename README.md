@@ -6,25 +6,25 @@ The app is designed to integrate with Project Onboard. Project Onboard is an exp
 [Demo](https://cryptobank-web.herokuapp.com)
 
 ## Screenshots
-Launch Screen
+* Launch Screen
 ![Alt text](/screenshots/screenshot-launch.png?raw=true "Launch Screen")
 
-Login
+* Login
 ![Alt text](/screenshots/screenshot-login.png?raw=true "Login")
 
-Dashboard
+* Dashboard
 ![Alt text](/screenshots/screenshot-dashboard.png?raw=true "Dashboard")
 
-Webex Teams Support
+* Webex Teams Support
 ![Alt text](/screenshots/screenshot-webexteams.png?raw=true "Webex Teams Support")
 
-Voice Chat
+* Voice Chat
 ![Alt text](/screenshots/screenshot-voicechat.png?raw=true "Voice Chat")
 
-Video Chat - Fullscreen
+* Video Chat - Fullscreen
 ![Alt text](/screenshots/screenshot-videochat-fullscreen.png?raw=true "Video Chat - Fullscreen")
 
-Video Chat - Window
+* Video Chat - Window
 ![Alt text](/screenshots/screenshot-videochat-pip.png?raw=true "Video Chat - Window")
 
 ## Prerequisites
