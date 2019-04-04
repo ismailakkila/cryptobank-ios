@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "CryptoBank",
+    "description": "CryptoBank is a fictional banking app intended to showcase Cisco Webex Teams cloud collaboration features with integrated client chat, voice and video.",
+    "slug": "cryptobank-ios",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cryptobank-icon.png",
+    "splash": {
+      "image": "./assets/cryptobank-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1b1c1d"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "assets/*"
+    ],
+    "entryPoint": "./src/app.js",
+    "isDetached": true,
+    "detach": {
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.10.2-sdk32.0.0-c59c23cd-1d49-49d2-a633-d03f9d554cf6.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.10.7-sdk32.0.0-3ff7f3bf-8e53-4d61-b963-1d7d92a77d79.tar.gz"
+    },
+    "scheme": "exp873acb3a3568483a9b3066ad8d7f0cc2",
+    "ios": {
+      "bundleIdentifier": "cryptobank.ios",
+      "publishBundlePath": "ios/cryptobank/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/cryptobank/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "cryptobank.android",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    },
+    "githubUrl": "https://github.com/ismailakkila/cryptobank-ios"
+  }
+}
