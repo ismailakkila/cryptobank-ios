@@ -77,7 +77,7 @@ Change Build Settings under cryptobank Target
 
 ![Alt text](/screenshots/screenshot-buildsettings-bitcode.png?raw=true "Bitcode")
 
-Hit the Play Button to allow the xCode to compile and build. If successful, the iOS Simulator would automatically launch
+Hit the Play Button to allow the xCode to compile and build. If successful, the iOS Simulator should automatically launch.
 
 
 ## Built With
